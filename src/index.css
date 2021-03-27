@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-text h1{
+  position: absolute;
+width: 330px;
+height: 40px;
+left: 48px;
+top: 41px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+}
